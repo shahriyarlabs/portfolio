@@ -970,13 +970,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .testimonials i {
     padding: 20px 0;
-    color: #AF9483;
+    
 }
+.akir{
+    background-attachment: fixed;
+    background-color: rgb(0, 81, 255);
+    padding: 5px;
+    color: white;
+    border-radius: 10%;
+}
+
 
 .testimonials .testimonial-item {
     text-align: center;
 }
-
 .testimonials .testimonial-item .testimonial-img {
     width: 120px;
     border: 10px solid rgba(256, 256, 256, .1);
